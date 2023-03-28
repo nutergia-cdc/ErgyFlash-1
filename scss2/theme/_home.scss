@@ -12,6 +12,11 @@ body{
 	@include media-breakpoint-down (xs) {
 		margin: 10px;
 	}
+    
+     background-image: url(../img/laboratoire.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 60%;
 }
 
 .section-gap {

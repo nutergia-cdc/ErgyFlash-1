@@ -289,10 +289,13 @@ td, th {
 .container {
     &.fullwidth {
         width: 100%;
+        border-radius: 20px;
+        
     }
     &.no-padding {
         padding-left: 0;
         padding-right: 0;
+        border-radius: 20px;
     }
 }
 .no-padding {
